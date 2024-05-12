@@ -1,0 +1,51 @@
+body{
+    background-color: red;
+}
+
+main{
+
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+header{
+    width: 100%;
+    height:100px ;
+    background-color: blue;
+    text-align: center;
+    color: white;
+   
+}
+
+.column1{
+    background-color: skyblue;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    float: left;
+    text-align: center;
+
+}
+
+.column2{
+    width: 400px;
+    height: 500px;
+    background-color: blueviolet;
+    float: left;
+    text-align: center;
+}
+
+
+
+footer{
+    
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+    clear: both;
+
+}
+
